@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\bin\Debug\netcoreapp2.2\Knights of Honor.deps.json
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\bin\Debug\netcoreapp2.2\Knights of Honor.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\bin\Debug\netcoreapp2.2\Knights of Honor.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\bin\Debug\netcoreapp2.2\Knights of Honor.dll
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\bin\Debug\netcoreapp2.2\Knights of Honor.pdb
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\obj\Debug\netcoreapp2.2\Knights of Honor.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\obj\Debug\netcoreapp2.2\Knights of Honor.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\obj\Debug\netcoreapp2.2\Knights of Honor.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\obj\Debug\netcoreapp2.2\Knights of Honor.dll
+D:\SoftUni\C# Advanced\Course\Functional Programming\Functional Programming\Knights of Honor\obj\Debug\netcoreapp2.2\Knights of Honor.pdb
