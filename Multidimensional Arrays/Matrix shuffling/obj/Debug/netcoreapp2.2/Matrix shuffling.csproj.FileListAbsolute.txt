@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.deps.json
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.dll
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.2\Matrix shuffling.pdb
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.dll
+D:\SoftUni\C# Advanced\Course\Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.2\Matrix shuffling.pdb
