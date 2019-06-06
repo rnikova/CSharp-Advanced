@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.deps.json
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.dll
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.pdb
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.dll
+D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.pdb
