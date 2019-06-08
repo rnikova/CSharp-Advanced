@@ -8,3 +8,14 @@ D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\Speed
 D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
 D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
 D:\SoftUni\C# Advanced\Course\C--Advanced\Defining Classes\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

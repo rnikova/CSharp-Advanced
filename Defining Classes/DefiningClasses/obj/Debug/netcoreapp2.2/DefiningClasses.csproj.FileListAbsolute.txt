@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.2\DefiningClasses.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.2\DefiningClasses.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.2\DefiningClasses.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.2\DefiningClasses.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.2\DefiningClasses.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.2\DefiningClasses.pdb
