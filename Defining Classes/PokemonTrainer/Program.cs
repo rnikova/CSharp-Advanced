@@ -51,7 +51,7 @@
                 {
                     bool hasElelement = false;
 
-                    foreach (var pokemon in trainer.Pokemons)
+                    foreach (var pokemon in trainer.Pokemons.Where(x => x.Health > 0))
                     {
                         if (pokemon.Element == input)
                         {
