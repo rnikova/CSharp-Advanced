@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Defining Classes\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
