@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\bin\Debug\netcoreapp2.1\GenericSwapMethodInt.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\bin\Debug\netcoreapp2.1\GenericSwapMethodInt.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\bin\Debug\netcoreapp2.1\GenericSwapMethodInt.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\bin\Debug\netcoreapp2.1\GenericSwapMethodInt.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\bin\Debug\netcoreapp2.1\GenericSwapMethodInt.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericSwapMethodInt\obj\Debug\netcoreapp2.1\GenericSwapMethodInt.pdb

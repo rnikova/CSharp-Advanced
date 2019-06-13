@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\bin\Debug\netcoreapp2.2\GenericBoxOfInt.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\bin\Debug\netcoreapp2.2\GenericBoxOfInt.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\bin\Debug\netcoreapp2.2\GenericBoxOfInt.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\bin\Debug\netcoreapp2.2\GenericBoxOfInt.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\bin\Debug\netcoreapp2.2\GenericBoxOfInt.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\GenericBoxOfInt\obj\Debug\netcoreapp2.2\GenericBoxOfInt.pdb
