@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\bin\Debug\netcoreapp2.1\Workshop.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\bin\Debug\netcoreapp2.1\Workshop.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\bin\Debug\netcoreapp2.1\Workshop.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\bin\Debug\netcoreapp2.1\Workshop.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\bin\Debug\netcoreapp2.1\Workshop.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Workshop\obj\Debug\netcoreapp2.1\Workshop.pdb
