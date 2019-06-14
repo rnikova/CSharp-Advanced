@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\bin\Debug\netcoreapp2.2\Tuple.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\bin\Debug\netcoreapp2.2\Tuple.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\bin\Debug\netcoreapp2.2\Tuple.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\bin\Debug\netcoreapp2.2\Tuple.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\bin\Debug\netcoreapp2.2\Tuple.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\Generics\Tuple\obj\Debug\netcoreapp2.2\Tuple.pdb

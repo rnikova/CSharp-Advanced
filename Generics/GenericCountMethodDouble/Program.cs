@@ -1,6 +1,5 @@
-﻿namespace GenericCountMethodStrings
+﻿namespace GenericCountMethodDouble
 {
-
     using System;
     using System.Collections.Generic;
 
@@ -10,18 +9,18 @@
         {
             int linesCount = int.Parse(Console.ReadLine());
 
-            Box<string> box = new Box<string>();
+            Box<double> box = new Box<double>();
 
             for (int i = 0; i < linesCount; i++)
             {
-                string input = Console.ReadLine();
+                double input = double.Parse(Console.ReadLine());
 
                 box.Add(input);
             }
 
-            string element = Console.ReadLine();
+            double element = double.Parse(Console.ReadLine());
 
-            int count = GetCountOfGreaterElement<string>(box.Data, element);
+            int count = GetCountOfGreaterElement(box.Data, element);
 
             Console.WriteLine(count);
         }
