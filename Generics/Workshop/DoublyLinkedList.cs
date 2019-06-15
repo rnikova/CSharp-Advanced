@@ -61,15 +61,12 @@
 
         public int RemoveFirst()
         {
-            if (this.Count==0)
-            {
-                throw new InvalidOperationException("DoublyLinkedList is empty!");
-            }
+            CheckIfEmptyThrowException();
 
             int fisrtElement = this.head.Value;
             this.head = this.head.NextNode;
 
-            if (this.head==null)
+            if (this.head == null)
             {
                 this.tail = null;
             }
@@ -83,11 +80,84 @@
             return fisrtElement;
         }
 
+        public int RemoveLast()
+        {
+            CheckIfEmptyThrowException();
+
+            int lastElement = this.tail.Value;
+            this.tail = this.tail.PreviousNode;
+
+            if (this.tail == null)
+            {
+                this.head = null;
+            }
+            else
+            {
+                this.tail.NextNode = null;
+            }
+
+            this.Count--;
+
+            return lastElement;
+        }
+
+        public bool Contains(int value)
+        {
+            ListNode currentNode = this.head;
+
+            while (currentNode != null)
+            {
+                if (currentNode.Value==value)
+                {
+                    return true;
+                }
+
+                currentNode = currentNode.NextNode;
+            }
+
+            return false;
+        }
+
+        public int[] ToArray()
+        {
+            int[] array = new int[this.Count];
+
+            var currentNode = this.head;
+            int counter = 0;
+
+            while (currentNode != null)
+            {
+                array[counter++] = currentNode.Value;
+                currentNode = currentNode.NextNode;
+            }
+
+            return array;
+        }
+
+        public void ForEach(Action<int> action)
+        {
+            var currentNode = this.head;
+
+            while (currentNode != null)
+            {
+                action(currentNode.Value);
+                currentNode = currentNode.NextNode;
+            }
+        }
+
+        private void CheckIfEmptyThrowException()
+        {
+            if (this.Count == 0)
+            {
+                throw new InvalidOperationException("DoublyLinkedList is empty!");
+            }
+        }
+
         public void Print(Action<int> action)
         {
             ListNode currentNode = this.head;
 
-            while (currentNode!=null)
+            while (currentNode != null)
             {
                 action(currentNode.Value);
                 currentNode = currentNode.NextNode;

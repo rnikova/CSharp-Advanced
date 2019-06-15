@@ -18,10 +18,21 @@
             doublyLinkedList.AddLast(2);
             doublyLinkedList.AddLast(3);
 
-            doublyLinkedList.RemoveFirst();
+            //doublyLinkedList.RemoveLast();
 
-            Console.WriteLine(doublyLinkedList.Count == 2);
-            doublyLinkedList.Print(Console.WriteLine);
+            //doublyLinkedList.Print(Console.WriteLine);
+            //Console.WriteLine(doublyLinkedList.Count == 2);
+
+            //int[] array = doublyLinkedList.ToArray();
+
+            //foreach (var i in array)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            doublyLinkedList.ForEach(n => Console.WriteLine(n));
+
+            Console.WriteLine(doublyLinkedList.Contains(2));
         }
     }
 }
