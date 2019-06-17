@@ -1,0 +1,11 @@
+C:\Users\Rosmari\Desktop\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+C:\Users\Rosmari\Desktop\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+C:\Users\Rosmari\Desktop\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+C:\Users\Rosmari\Desktop\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\Rosmari\Desktop\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\Rosmari\Desktop\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

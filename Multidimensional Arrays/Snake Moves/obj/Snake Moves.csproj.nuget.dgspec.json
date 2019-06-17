@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\C# Advanced\\Course\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj": {}
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\C# Advanced\\Course\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj": {
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj",
+        "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj",
         "projectName": "Snake Moves",
-        "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj",
+        "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Multidimensional Arrays\\Snake Moves\\Snake Moves.csproj",
         "packagesPath": "C:\\Users\\Rosmari\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\Multidimensional Arrays\\Snake Moves\\obj\\",
+        "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Multidimensional Arrays\\Snake Moves\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
