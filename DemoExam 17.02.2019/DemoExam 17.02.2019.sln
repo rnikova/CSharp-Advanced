@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socks", "Socks\Socks.csproj", "{E12790F7-8999-4120-9215-B8530EABF4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelFunctions", "ExcelFunctions\ExcelFunctions.csproj", "{36ADB257-AB98-4BC3-8E09-0FAD216EC726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{4809BE49-B7A9-47E5-9397-B6100C83DB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12790F7-8999-4120-9215-B8530EABF4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12790F7-8999-4120-9215-B8530EABF4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12790F7-8999-4120-9215-B8530EABF4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12790F7-8999-4120-9215-B8530EABF4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36ADB257-AB98-4BC3-8E09-0FAD216EC726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ADB257-AB98-4BC3-8E09-0FAD216EC726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ADB257-AB98-4BC3-8E09-0FAD216EC726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ADB257-AB98-4BC3-8E09-0FAD216EC726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4809BE49-B7A9-47E5-9397-B6100C83DB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4809BE49-B7A9-47E5-9397-B6100C83DB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4809BE49-B7A9-47E5-9397-B6100C83DB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4809BE49-B7A9-47E5-9397-B6100C83DB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D309380-DB10-48DF-B726-DFF3F640E1BE}
+	EndGlobalSection
+EndGlobal

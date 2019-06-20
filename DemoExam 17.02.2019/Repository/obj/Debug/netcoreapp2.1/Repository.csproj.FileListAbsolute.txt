@@ -1,0 +1,11 @@
+D:\SoftUni\DemoExam 17.02.2019\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\SoftUni\DemoExam 17.02.2019\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\SoftUni\DemoExam 17.02.2019\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\SoftUni\DemoExam 17.02.2019\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\SoftUni\DemoExam 17.02.2019\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\SoftUni\DemoExam 17.02.2019\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\DemoExam 17.02.2019\Socks\bin\Debug\netcoreapp2.2\Socks.deps.json
+D:\SoftUni\DemoExam 17.02.2019\Socks\bin\Debug\netcoreapp2.2\Socks.runtimeconfig.json
+D:\SoftUni\DemoExam 17.02.2019\Socks\bin\Debug\netcoreapp2.2\Socks.runtimeconfig.dev.json
+D:\SoftUni\DemoExam 17.02.2019\Socks\bin\Debug\netcoreapp2.2\Socks.dll
+D:\SoftUni\DemoExam 17.02.2019\Socks\bin\Debug\netcoreapp2.2\Socks.pdb
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.csprojAssemblyReference.cache
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.csproj.CoreCompileInputs.cache
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.AssemblyInfoInputs.cache
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.AssemblyInfo.cs
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.dll
+D:\SoftUni\DemoExam 17.02.2019\Socks\obj\Debug\netcoreapp2.2\Socks.pdb
