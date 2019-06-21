@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Exam 24.02.2019\\Hero\\Heroes.csproj",
+      "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\Exam 24.02.2019\\Hero\\Heroes.csproj",
       "projectName": "Heroes",
-      "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Exam 24.02.2019\\Hero\\Heroes.csproj",
+      "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\Exam 24.02.2019\\Hero\\Heroes.csproj",
       "packagesPath": "C:\\Users\\Rosmari\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\Exam 24.02.2019\\Hero\\obj\\",
+      "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\Exam 24.02.2019\\Hero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
