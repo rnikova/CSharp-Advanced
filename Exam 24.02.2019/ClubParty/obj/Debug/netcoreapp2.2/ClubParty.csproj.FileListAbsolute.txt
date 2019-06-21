@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.deps.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.dll
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.pdb
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.dll
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.pdb

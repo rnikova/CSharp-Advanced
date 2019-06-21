@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\Hero\obj\Debug\netcoreapp2.1\Heroes.pdb

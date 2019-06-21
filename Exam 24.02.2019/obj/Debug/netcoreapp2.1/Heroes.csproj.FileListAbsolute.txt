@@ -1,0 +1,4 @@
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\Exam 24.02.2019\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
