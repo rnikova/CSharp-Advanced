@@ -1,74 +1,102 @@
-﻿namespace Helen_sAbduction
+﻿namespace ExamPreparation_20_June_2019
 {
     using System;
     using System.Linq;
 
-    class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int parisEnergy = int.Parse(Console.ReadLine());
-            int matrixSize = int.Parse(Console.ReadLine());
+            int spartaRow = int.Parse(Console.ReadLine());
 
-            char[][] sparta = new char[matrixSize][];
-            int[] parisIndex = new int[2];
-            int[] helenIndex = new int[2];
+            char[][] spartaField = new char[spartaRow][];
+            int parisRow = 0;
+            int parisCol = 0;
             bool isWon = false;
 
-            for (int row = 0; row < matrixSize; row++)
+            for (int i = 0; i < spartaRow; i++)
             {
-                char[] cols = Console.ReadLine().ToCharArray();
+                char[] spartaCol = Console.ReadLine().ToCharArray();
 
-                if (cols.Contains('P') || cols.Contains('H'))
+                if (spartaCol.Contains('P'))
                 {
-                    for (int i = 0; i < cols.Length; i++)
+                    parisRow = i;
+
+                    for (int c = 0; c < spartaCol.Length; c++)
                     {
-                        if (cols[i] == 'P')
+                        if (spartaCol[c] == 'P')
                         {
-                            parisIndex[0] = row;
-                            parisIndex[1] = i;
-                            cols[i] = '-';
-                        }
-                        else if (cols[i] == 'H')
-                        {
-                            helenIndex[0] = row;
-                            helenIndex[1] = i;
+                            parisCol = c;
+                            spartaCol[c] = '-';
+                            break;
                         }
                     }
                 }
 
-                sparta[row] = cols;
+                spartaField[i] = spartaCol;
             }
 
             while (parisEnergy > 0)
             {
                 string[] command = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string move = command[0];
-                int row = int.Parse(command[1]);
-                int col = int.Parse(command[2]);
+                string moveDirection = command[0];
+                int spawnRow = int.Parse(command[1]);
+                int spawnCol = int.Parse(command[2]);
 
-                sparta[row][col] = 'S';
+                spartaField[spawnRow][spawnCol] = 'S';
 
-                MoveDirection(sparta, move, parisIndex);
+                if (moveDirection == "up")
+                {
+                    if (parisRow - 1 >= 0)
+                    {
+                        parisRow--;
+                    }
+                }
+                else if (moveDirection == "down")
+                {
+                    if (parisRow + 1 < spartaField.Length)
+                    {
+                        parisRow++;
+                    }
+                }
+                else if (moveDirection == "left")
+                {
+                    if (parisCol - 1 >= 0)
+                    {
+                        parisCol--;
+                    }
+                }
+                else if (moveDirection == "rigth")
+                {
+                    if (parisCol + 1 < spartaField[parisRow].Length)
+                    {
+                        parisCol++;
+                    }
+                }
+
                 parisEnergy--;
 
-                char spartan = sparta[parisIndex[0]][parisIndex[1]];
-
-                if (spartan == 'S')
+                if (spartaField[parisRow][parisCol] == 'S')
                 {
                     parisEnergy -= 2;
+
+                    if (parisEnergy > 0)
+                    {
+                        spartaField[parisRow][parisCol] = '-';
+                    }
                 }
-                else if (spartan == 'H')
+
+                if (spartaField[parisRow][parisCol] == 'H')
                 {
+                    spartaField[parisRow][parisCol] = '-';
                     isWon = true;
-                    sparta[parisIndex[0]][parisIndex[1]] = '-';
                     break;
                 }
 
                 if (parisEnergy <= 0)
                 {
-                    sparta[parisIndex[0]][parisIndex[1]] = 'X';
-                    break;
+                    spartaField[parisRow][parisCol] = 'X';
                 }
             }
 
@@ -78,45 +106,15 @@
             }
             else
             {
-                Console.WriteLine($"Paris died at {parisIndex[0]};{parisIndex[1]}.");
+                Console.WriteLine($"Paris died at {parisRow};{parisCol}.");
             }
 
-            for (int row = 0; row < sparta.Length; row++)
+            for (int row = 0; row < spartaField.Length; row++)
             {
-                Console.WriteLine(string.Join("", sparta[row]));
+                Console.WriteLine(string.Join("", spartaField[row]));
             }
+
         }
 
-        private static void MoveDirection(char[][] sparta, string move, int[] parisIndex)
-        {
-            if (move == "up")
-            {
-                if (parisIndex[0] - 1 >= 0)
-                {
-                    parisIndex[0]--;
-                }
-            }
-            else if (move == "down")
-            {
-                if (parisIndex[0] + 1 < sparta.Length)
-                {
-                    parisIndex[0]++;
-                }
-            }
-            else if (move == "left")
-            {
-                if (parisIndex[1] - 1 >= 0)
-                {
-                    parisIndex[1]--;
-                }
-            }
-            else if (move == "rigth")
-            {
-                if (parisIndex[1] + 1 < sparta[parisIndex[0]].Length)
-                {
-                    parisIndex[1]++;
-                }
-            }
-        }
     }
 }

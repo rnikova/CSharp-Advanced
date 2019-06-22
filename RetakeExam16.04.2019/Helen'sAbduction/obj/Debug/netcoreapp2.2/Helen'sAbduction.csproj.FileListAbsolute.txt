@@ -9,3 +9,14 @@ D:\SoftUni\C# Advanced\Course\Retake Exam - 16 April 2019\RetakeExam16.04.2019\H
 D:\SoftUni\C# Advanced\Course\Retake Exam - 16 April 2019\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.AssemblyInfo.cs
 D:\SoftUni\C# Advanced\Course\Retake Exam - 16 April 2019\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.dll
 D:\SoftUni\C# Advanced\Course\Retake Exam - 16 April 2019\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\bin\Debug\netcoreapp2.2\Helen'sAbduction.deps.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\bin\Debug\netcoreapp2.2\Helen'sAbduction.runtimeconfig.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\bin\Debug\netcoreapp2.2\Helen'sAbduction.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\bin\Debug\netcoreapp2.2\Helen'sAbduction.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\bin\Debug\netcoreapp2.2\Helen'sAbduction.pdb
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.dll
+D:\SoftUni\C# Advanced\Course\CSharp-Advanced\RetakeExam16.04.2019\Helen'sAbduction\obj\Debug\netcoreapp2.2\Helen'sAbduction.pdb
