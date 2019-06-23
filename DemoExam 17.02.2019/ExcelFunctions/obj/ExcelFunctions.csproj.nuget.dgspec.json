@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj": {}
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj": {
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj",
+        "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj",
         "projectName": "ExcelFunctions",
-        "projectPath": "D:\\SoftUni\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj",
+        "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\ExcelFunctions\\ExcelFunctions.csproj",
         "packagesPath": "C:\\Users\\Rosmari\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\DemoExam 17.02.2019\\ExcelFunctions\\obj\\",
+        "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\ExcelFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

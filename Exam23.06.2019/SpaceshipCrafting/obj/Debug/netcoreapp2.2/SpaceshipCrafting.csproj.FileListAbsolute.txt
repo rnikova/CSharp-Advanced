@@ -1,0 +1,11 @@
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.deps.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.pdb

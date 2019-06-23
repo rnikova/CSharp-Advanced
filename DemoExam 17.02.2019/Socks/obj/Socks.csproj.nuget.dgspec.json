@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\DemoExam 17.02.2019\\Socks\\Socks.csproj": {}
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\Socks\\Socks.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\DemoExam 17.02.2019\\Socks\\Socks.csproj": {
+    "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\Socks\\Socks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\DemoExam 17.02.2019\\Socks\\Socks.csproj",
+        "projectUniqueName": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\Socks\\Socks.csproj",
         "projectName": "Socks",
-        "projectPath": "D:\\SoftUni\\DemoExam 17.02.2019\\Socks\\Socks.csproj",
+        "projectPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\Socks\\Socks.csproj",
         "packagesPath": "C:\\Users\\Rosmari\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\DemoExam 17.02.2019\\Socks\\obj\\",
+        "outputPath": "D:\\SoftUni\\C# Advanced\\Course\\CSharp-Advanced\\DemoExam 17.02.2019\\Socks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

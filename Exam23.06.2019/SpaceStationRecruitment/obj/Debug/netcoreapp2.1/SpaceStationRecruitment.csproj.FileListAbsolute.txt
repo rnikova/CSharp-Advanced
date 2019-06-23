@@ -1,0 +1,11 @@
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+C:\Users\Rosmari\Desktop\Exam23.06.2019\SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
